@@ -1,9 +1,3 @@
-### UNIVERSITY MANAGEMENT SYSTEM APP
-
-### Front-End and Backend Laravel
-
-### MVC FOLLOWED
-
 # University Management System Overview
 
 The University Management System (UMS) is a comprehensive platform designed to streamline administrative, academic, and financial operations of an educational institution. It features multiple modules tailored for different users including Admins, Teachers, Students, and Accounts personnel, each equipped with specific functionalities to support their roles effectively.
@@ -44,6 +38,9 @@ The University Management System (UMS) is a comprehensive platform designed to s
 
 This system is designed to facilitate seamless interaction between different stakeholders of the university, ensuring efficient management of academic, administrative, and financial tasks.
 
+### Front-End and Backend Laravel
+
+### MVC FOLLOWED
 <hr>
 
 ### LOGIN PAGE
